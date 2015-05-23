@@ -1,4 +1,4 @@
-title: Installation
+title: Установка
 type: guide
 order: 1
 vue_version: 0.11.10

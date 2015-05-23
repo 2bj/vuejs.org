@@ -1,9 +1,9 @@
-title: Getting Started
+title: Вступление
 type: guide
 order: 2
 ---
 
-## Introduction
+## Введение
 
 Vue.js is a library for building interactive web interfaces.
 

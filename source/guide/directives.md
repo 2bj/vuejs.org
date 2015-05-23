@@ -1,4 +1,4 @@
-title: Directives
+title: Директивы
 type: guide
 order: 3
 ---

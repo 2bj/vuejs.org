@@ -1,4 +1,4 @@
-title: Filters
+title: Фильтры
 type: guide
 order: 4
 ---
