@@ -1,4 +1,4 @@
-# vuejs.org
+# vuejs.ru
 
 This site is built with [hexo](http://zespia.tw/hexo/). Site content is written in Markdown format located in `source`. Pull requests welcome!
 
